@@ -19,6 +19,18 @@ img {
 	height: auto;
 }
 
+.menuItem {
+	width: 150px;
+	height: auto;
+	border: 5px solid #4CAF50;
+	border-radius: 20px;
+	transition: transform .2s;
+}
+
+.menuItem:hover {
+	transform: scale(1.2);
+}
+
 .order-online {
 	width: auto;
 	height: 100px;
