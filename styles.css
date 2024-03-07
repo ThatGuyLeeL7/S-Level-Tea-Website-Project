@@ -49,6 +49,17 @@ img {
 	text-decoration: underline;
 }
 
+.map:link {
+	color: blue;
+	text-decoration: underline;
+}
+
+.map:visited {
+	color: blue;
+	text-decoration: underline;
+}
+
+
 p {
 	font-size: 21px;
 }
