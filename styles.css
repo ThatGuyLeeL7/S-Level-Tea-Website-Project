@@ -41,20 +41,26 @@ img {
 
 .LinkedIn:link {
 	color: blue;
-	text-decoration: underline;
 }
 
 .LinkedIn:visited {
+	color: blue;
+}
+
+.LinkedIn:hover {
 	color: blue;
 	text-decoration: underline;
 }
 
 .map:link {
 	color: blue;
-	text-decoration: underline;
 }
 
 .map:visited {
+	color: blue;
+}
+
+.map:hover {
 	color: blue;
 	text-decoration: underline;
 }
